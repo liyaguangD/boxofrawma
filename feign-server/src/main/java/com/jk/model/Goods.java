@@ -14,6 +14,30 @@ public class Goods {
 
     private int inventory;
 
+    private int status;
+
+    private String goodimg;
+
+    public int getStatus()
+    {
+        return status;
+    }
+
+    public void setStatus(int status)
+    {
+        this.status = status;
+    }
+
+    public String getGoodimg()
+    {
+        return goodimg;
+    }
+
+    public void setGoodimg(String goodimg)
+    {
+        this.goodimg = goodimg;
+    }
+
     public String getGoodId() {
         return goodId;
     }
