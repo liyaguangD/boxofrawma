@@ -9,7 +9,7 @@ import java.util.List;
 
 @Service
 public class GoodsServiceImpl implements GoodsService {
-
+    //asdasdasdasdasdasdasdasdasdasdasdas
     @Autowired
     private GoodsMapper goodsMapper;
     @Override
