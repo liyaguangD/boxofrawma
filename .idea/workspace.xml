@@ -35,12 +35,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="9" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.checkout.with.rebase" value="1" />
+          <entry key="git.branch.compare" value="1" />
+          <entry key="git.checkout.as.new.branch" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -50,6 +58,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -113,9 +134,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543920887881" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543921259431" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\myWorkKu\boxofrawma\springmvc\src\main\webapp\js\kindeditor-4.1.7" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\myWorkKu\boxofrawma\springmvc\src\main\webapp" />
     </key>
@@ -170,7 +194,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543914831653</updated>
-      <workItem from="1543914833430" duration="1640000" />
+      <workItem from="1543914833430" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="上传js">
       <created>1543915582464</created>
@@ -179,11 +203,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543915582464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="上传js你好世界">
+      <created>1543920900763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543920900763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="上传js你好世界">
+      <created>1543920918320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543920918320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1640000" />
+    <option name="totallyTimeSpent" value="2129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
@@ -194,14 +232,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22469635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19635628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.36666667" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32028985" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -241,7 +279,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="上传js" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传js" />
+    <MESSAGE value="上传js你好世界" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传js你好世界" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springmvc/src/main/webapp/js/ck/c.js">
