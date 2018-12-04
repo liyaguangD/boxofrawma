@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boxofrawma.iml" filepath="$PROJECT_DIR$/boxofrawma.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign-server/feign-server.iml" filepath="$PROJECT_DIR$/feign-server/feign-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../boxofrawma/goods-server/goods-server.iml" filepath="$PROJECT_DIR$/../boxofrawma/goods-server/goods-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-server/feign-server.iml" filepath="$PROJECT_DIR$/feign-server/feign-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-server/goods-server.iml" filepath="$PROJECT_DIR$/goods-server/goods-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-server/goods-server.iml" filepath="$PROJECT_DIR$/goods-server/goods-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/springmvc/springmvc.iml" />
     </modules>
   </component>
