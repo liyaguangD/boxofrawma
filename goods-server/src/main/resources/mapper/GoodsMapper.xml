@@ -4,8 +4,14 @@
 <mapper namespace="com.jk.mapper.GoodsMapper">
 
     <select id="queryGoods" resultType="com.jk.model.Goods">
-        SELECT * FROM t_goods
+        SELECT * FROM t_goods limit #{start},#{pageSize}
     </select>
+    <select id="queryCountGood" resultType="long">
+
+    select count(*) from t_goods
+
+    </select>
+
 <!--    &lt;!&ndash; 查询 &ndash;&gt;
     <select id="getCountry" resultType="com.jk.model.Country">
         SELECT * FROM country
